@@ -1,9 +1,5 @@
 ## Intro 
-[LinkedIn](https://www.linkedin.com/in/phat-do-something/)
-
-[Personal Website](https://dophat1.github.io/)
-
-[Substack](https://substack.com/@phatdo1)
+[LinkedIn](https://www.linkedin.com/in/phat-do-something/) || [Personal Website](https://dophat1.github.io/) || [Substack](https://substack.com/@phatdo1)
 
 <p align="center">
    <img width="400" alt="myselfcropped" src="https://github.com/user-attachments/assets/546e4af4-9a78-436d-979d-04356a5d7eee" />
