@@ -2,6 +2,7 @@
 [LinkedIn](https://www.linkedin.com/in/phat-do-something/)
 [Personal Website](https://dophat1.github.io/)
 [Substack](https://substack.com/@phatdo1)
+
 <img width="400" alt="DSC07341" src="https://github.com/user-attachments/assets/b9c1412b-bd36-469e-a1b1-b41cbee25ce8"/>
 
 My name is Phat Do. I'm currently studying in Technische Hochschule Augsburg with major Data science. 
