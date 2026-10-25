@@ -1,11 +1,17 @@
 ## Intro 
 [LinkedIn](https://www.linkedin.com/in/phat-do-something/)
 [Personal Website](https://dophat1.github.io/)
-<img width="3080" height="5472" alt="DSC07341" src="https://github.com/user-attachments/assets/b9c1412b-bd36-469e-a1b1-b41cbee25ce8" />
+[Substack](https://substack.com/@phatdo1)
+<img width="400" alt="DSC07341" src="https://github.com/user-attachments/assets/b9c1412b-bd36-469e-a1b1-b41cbee25ce8"/>
 
 My name is Phat Do. I'm currently studying in Technische Hochschule Augsburg with major Data science. 
 
-To be honest, at first I chose this major due to the trendy stuffs on the internet, not because I am interested in this field. But it turns out to be interesting with just bunch of mathematics. I learnt a lot about probability and statistics, which can apply to my REAL interest: **gambling**. I want to gambling to win on default, not based on luck. My deepest desire is to answer the question: **IS RANDOMNESS REAL?**.
+To be honest, at first I chose this major due to the trendy stuffs on the internet, not because I am interested in this field. But it turns out to be interesting with just bunch of mathematics. I learnt a lot about probability and statistics, which can apply to my REAL interest: **gambling**. I want to gambling to win on default, not based on luck. My deepest desire is to answer 2 questions, 1 universe one, 1 realistic one: 
+
+1. **IS RANDOMNESS REAL?**.
+2. **Build a great game**
+   
+Currently I am still exploring myself to find domain to pursuit, so as you can see my repos are a bit chaotic, since I'm experimenting everything.  
 
 # Achievements
 
@@ -17,4 +23,4 @@ I love reading, writing and I also want to be a writer in the future. My favouri
 
 I also love travelling with motorbikes (you can see the image above, and that was Ha Giang - a must-visit place for whoever goes to Vietnam). 
 
-Some of other of my hobbies are: karaoke-ing, photography (mostly for me and my gf so please don't take it too seriously), filming whatever I find cool and fun. Here is my youtube [Youtube](https://www.youtube.com/@PhatDoSieuCapDepTrai)
+Some of other of my hobbies are: karaoke-ing, photography (mostly for me and my gf so please don't take it too seriously), filming whatever I find cool and fun. Here is my [Youtube](https://www.youtube.com/@PhatDoSieuCapDepTrai). 
