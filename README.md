@@ -1,16 +1,20 @@
 ## Intro 
 [LinkedIn](https://www.linkedin.com/in/phat-do-something/)
+
 [Personal Website](https://dophat1.github.io/)
+
 [Substack](https://substack.com/@phatdo1)
 
-<img width="400" alt="DSC07341" src="https://github.com/user-attachments/assets/b9c1412b-bd36-469e-a1b1-b41cbee25ce8"/>
+<p align="center">
+   <img width="400" alt="myselfcropped" src="https://github.com/user-attachments/assets/546e4af4-9a78-436d-979d-04356a5d7eee" />
+</p>
 
 My name is Phat Do. I'm currently studying in Technische Hochschule Augsburg with major Data science. 
 
 To be honest, at first I chose this major due to the trendy stuffs on the internet, not because I am interested in this field. But it turns out to be interesting with just bunch of mathematics. I learnt a lot about probability and statistics, which can apply to my REAL interest: **gambling**. I want to gambling to win on default, not based on luck. My deepest desire is to answer 2 questions, 1 universe one, 1 realistic one: 
 
 1. **IS RANDOMNESS REAL?**.
-2. **Build a great game**
+2. **How to build a truly great game?**
    
 Currently I am still exploring myself to find domain to pursuit, so as you can see my repos are a bit chaotic, since I'm experimenting everything.  
 
